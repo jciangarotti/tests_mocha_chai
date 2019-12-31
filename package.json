@@ -1,0 +1,28 @@
+{
+  "name": "tests_mocha_chai",
+  "version": "1.0.0",
+  "description": "Test para probar como funciona Mocha y Chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jciangarotti/tests_mocha_chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai",
+    "unit",
+    "test"
+  ],
+  "author": "Javier Ciangarotti Stein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jciangarotti/tests_mocha_chai/issues"
+  },
+  "homepage": "https://github.com/jciangarotti/tests_mocha_chai#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
