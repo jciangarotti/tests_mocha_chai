@@ -1,6 +1,6 @@
-## Lista de ejemplos y su documentación
+# Lista de ejemplos y su documentación
 
-# addTested 
+## addTested 
 Ejemplo Práctico de la función app/calculator addTested fue obtenido desde 
 ```url
 https://www.paradigmadigital.com/dev/testeando-javascript-mocha-chai/
