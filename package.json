@@ -4,7 +4,7 @@
   "description": "Test para probar como funciona Mocha y Chai",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/jciangarotti/tests_mocha_chai#readme",
   "dependencies": {
+    "chai": "^4.2.0",
     "mocha": "^6.2.2"
   }
 }
